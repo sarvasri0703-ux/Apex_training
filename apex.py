@@ -10,5 +10,6 @@ class Dog:
             print(f"{self.breed}is the breed name!")
             
 dog1 = Dog("Budedey", "Goldern Retriever")
+dog2 = Dog("Kingbull", "Bulldog")
 dog1.speak()
 dog1.bread()
